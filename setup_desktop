@@ -19,3 +19,5 @@ $ git config --global user.email "saranraj.santhanam@saggezza.com"
 Saranraj@SGZ-IN01074 C:\Users\Saranraj
 $ git config --global user.email
 saranraj.santhanam@saggezza.com
+
+Use the guides : https://guides.github.com/
